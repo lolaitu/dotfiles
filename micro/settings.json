@@ -1,0 +1,22 @@
+{
+    "*.json": {
+        "reload": "auto"
+    },
+    "*.md": {
+        "rmtrailingws": false
+    },
+    "basename": true,
+    "colorcolumn": 80,
+    "colorscheme": "dukedark-tc",
+    "diffgutter": true,
+    "hltrailingws": true,
+    "mkparents": true,
+    "multiopen": "vsplit",
+    "rmtrailingws": true,
+    "savecursor": true,
+    "saveundo": true,
+    "softwrap": true,
+    "statusformatl": " $(filename) $(modified)($(line),$(col))",
+    "statusformatr": "$(opt:vsplit) $(bind:lua:wc.wordCount) ",
+    "wordwrap": true
+}

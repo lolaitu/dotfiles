@@ -1,0 +1,55 @@
+# Font Settings
+font-family = 			"UbuntuMono Nerd Font"
+font-size = 				18
+
+# Themes
+theme = Dracula
+
+# Background Opacity
+background-opacity = 0.8
+unfocused-split-opacity = 0.7
+
+# Shader
+custom-shader-animation = true
+# custom-shader = ./shader/ghostty-shaders/crt.glsl
+# custom-shader = ./shader/ghostty-shaders/dither.glsl
+# custom-shader = ./shader/ghostty-shaders/bettercrt.glsl
+# custom-shader = ./shader/ghostty-shaders/drunkard.glsl
+# custom-shader = ./shader/ghostty-shaders/fireworks-rockets.glsl
+# custom-shader = ./shader/ghostty-shaders/glitchy.glsl
+# custom-shader = ./shader/ghostty-shaders/inside-the-matrix.glsl
+# custom-shader = ./shader/ghostty-shaders/retro-terminal.glsl
+# custom-shader = ./shader/ghostty-shaders/tft.glsl
+# custom-shader = ./shader/ghostty-shaders/tft.glsl
+
+# GTK / Window
+gtk-titlebar = false
+window-padding-balance = true
+window-padding-color = background
+
+# Cursor
+cursor-style = bar
+mouse-hide-while-typing = true
+
+
+# Keybind
+keybind = ctrl+shift+p=increase_font_size:1
+keybind = ctrl+shift+m=decrease_font_size:1
+keybind = ctrl+shift+o=reset_font_size
+
+keybind = ctrl+shift+page_up=next_tab
+keybind = ctrl+shift+page_down=previous_tab
+
+keybind = ctrl+shift+z=new_split:right
+
+
+# Free keybind (for micro for exemple)
+keybind = ctrl+page_up=unbind
+keybind = ctrl+page_down=unbind
+keybind = ctrl+delete=unbind
+keybind = ctrl+backspace=unbind
+
+keybind = ctrl+shift+up=unbind
+keybind = ctrl+shift+down=unbind
+keybind = ctrl+shift+left=unbind
+keybind = ctrl+shift+right=unbind

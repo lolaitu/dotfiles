@@ -75,6 +75,10 @@
         {
             "wmClass": "Spotify",
             "mode": "float"
+        },
+        {
+            "wmClass": "Fractal",
+            "mode": "float"
         }
     ]
 }

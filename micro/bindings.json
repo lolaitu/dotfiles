@@ -1,0 +1,21 @@
+{
+    "Alt-\"": "command:dquote",
+    "Alt-'": "command:squote",
+    "Alt-(": "command:brace",
+    "Alt-/": "lua:comment.comment",
+    "Alt-\u003c": "command:angle",
+    "Alt-Backspace": "DeleteWordLeft",
+    "Alt-[": "command:square",
+    "Alt-e": "command:tree",
+    "Alt-o": "command:fzf",
+    "Alt-{": "command:curly",
+    "Ctrl-Backspace": "DeleteWordLeft",
+    "Ctrl-Down": "ParagraphNext",
+    "Ctrl-Shift-Down": "ParagraphPrevious",
+    "Ctrl-Underscore": "lua:comment.comment",
+    "Ctrl-Up": "ParagraphPrevious",
+    "Ctrl-delete": "DeleteWordRight",
+    "Ctrl-g": "command-edit:goto ",
+    "F4": "command:jumptag",
+    "F5": "lua:wc.wordCount"
+}

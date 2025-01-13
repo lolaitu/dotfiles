@@ -70,3 +70,61 @@ map at tar
 map ag targz
 map ab tarbz2
 map au unarchive
+
+
+
+# Ajoute la prise en charge des Nerdfonts
+set icons true
+
+# Définir une icône pour les dossiers
+set icon_dir " "    # nf-oct-file_directory
+
+# Fichiers courants
+set icon_file " "   # nf-fa-file
+
+# Types de fichiers spécifiques
+set icon_md " "     # nf-oct-markdown
+set icon_txt " "    # nf-oct-file_text
+set icon_pdf " "    # nf-mdi-file_pdf
+set icon_zip " "    # nf-oct-file_zip
+
+# Images
+set icon_jpg " "    # nf-fa-file_image
+set icon_png " "
+set icon_gif " "
+
+# Audio et vidéo
+set icon_mp3 " "    # nf-fa-music
+set icon_mp4 " "    # nf-mdi-movie
+
+# Langages de programmation
+set icon_py " "     # nf-dev-python
+set icon_js " "     # nf-dev-javascript
+set icon_html " "   # nf-fa-html5
+set icon_css " "    # nf-dev-css3
+set icon_php " "    # nf-dev-php
+set icon_rb " "     # nf-dev-ruby
+
+# Binaires et exécutables
+set icon_bin " "    # nf-dev-terminal
+set icon_exe " "    # nf-fa-windows
+
+# Icônes pour d'autres extensions
+set icon_sh " "     # nf-dev-terminal
+set icon_conf " "   # nf-fa-cogs
+
+# Dossiers spéciaux
+set icon_dir_downloads " " # nf-mdi-folder_download
+set icon_dir_desktop " "   # nf-fa-desktop
+set icon_dir_documents " " # nf-oct-file_directory
+set icon_dir_music " "     # nf-fa-music
+set icon_dir_pictures " "  # nf-fa-picture_o
+set icon_dir_videos " "    # nf-mdi-movie
+
+# Icônes pour fichiers git
+set icon_git " "      # nf-dev-git
+set icon_gitignore " " # nf-dev-git
+
+# Icônes de fichiers temporaires ou non suivis
+set icon_tmp " "      # nf-fa-snowflake_o
+
